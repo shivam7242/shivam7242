@@ -6,7 +6,7 @@
 
 👋 Hello! I'm Shivam, a passionate IT student at IIIT Lucknow, diving deep into full-stack development, AI, and competitive programming.
 
-[![LinkedIn](https://www.linkedin.com/in/shivam-pratap-singh-200361229/)
+[![LinkedIn](https://img.shields.io/badge/-Shivam_Pratap_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivampratapsingh321/)
 [![GitHub](https://img.shields.io/badge/-Shivam_Pratap_Singh-gray?style=flat-square&logo=github)](https://github.com/Shivam-Pratap-Singh)
 [![Email](https://img.shields.io/badge/-shivamptsingh321@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamptsingh321@gmail.com)
 
@@ -54,7 +54,7 @@
 ### 🌟 Leadership & Volunteering
 - Tech Lead for Expression Hackathon (Oct 2022 - Jan 2023)
 - Volunteer at Evolove organization, IIIT Lucknow (Apr 2022 - Jul 2023)
-- Member of Utkrist Art Society and Goonj Drama Society, IIITL (Dec 2021 - Jun 2022)
+- Member of Utkrist Art Society and Goonj Drama Society, IIIT Lucknow (Dec 2021 - Jun 2022)
 
 ### 📊 GitHub Stats
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-Pratap-Singh&show_icons=true&theme=radical)
