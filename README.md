@@ -34,7 +34,7 @@
    - [Project Presentation](link)
 
 ### 🏆 Achievements
-- Specialist at Codeforces (Max: 1450) | [Profile](link)
+- Specialist at Codeforces (Max: 1450) | [shivam5435]([link](https://codeforces.com/profile/shivam5435))
 - 3 Star at Codechef (Max: 1695) | [Profile](link)
 - Leetcode Rating: 1828 | [Profile](link)
 - 4 Kyu at Atcoder (Max: 737) | [Profile](link)
