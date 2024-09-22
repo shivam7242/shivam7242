@@ -3,6 +3,10 @@
 
 # Shivam Pratap Singh
 ## Full Stack Developer | AI Enthusiast | Competitive Programmer
+[![LinkedIn](https://img.shields.io/badge/-Shivam_Pratap_Singh-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivampratapsingh321/)
+[![GitHub](https://img.shields.io/badge/-Shivam_Pratap_Singh-181717?style=flat&logo=github)](https://github.com/Shivam-Pratap-Singh)
+[![Email](https://img.shields.io/badge/-shivamptsingh321@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivamptsingh321@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-00A98F?style=flat&logo=readme&logoColor=white)](https://link-to-your-resume.com)
 
 👋 Hello! I'm Shivam, a passionate IT student at IIIT Lucknow, diving deep into full-stack development, AI, and competitive programming.
 
