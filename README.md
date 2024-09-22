@@ -53,7 +53,7 @@
 
 ### 🌟 Leadership & Volunteering
 - Tech Lead for Expression Hackathon (Oct 2022 - Jan 2023)
-- Volunteer at Evolove organization, IIITL (Apr 2022 - Jul 2023)
+- Volunteer at Evolove organization, IIIT Lucknow (Apr 2022 - Jul 2023)
 - Member of Utkrist Art Society and Goonj Drama Society, IIITL (Dec 2021 - Jun 2022)
 
 ### 📊 GitHub Stats
