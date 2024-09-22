@@ -6,7 +6,7 @@
 
 👋 Hello! I'm Shivam, a passionate IT student at IIIT Lucknow, diving deep into full-stack development, AI, and competitive programming.
 
-[![LinkedIn](https://img.shields.io/badge/-Shivam_Pratap_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-pratap-singh/)
+[![LinkedIn](https://www.linkedin.com/in/shivam-pratap-singh-200361229/)
 [![GitHub](https://img.shields.io/badge/-Shivam_Pratap_Singh-gray?style=flat-square&logo=github)](https://github.com/Shivam-Pratap-Singh)
 [![Email](https://img.shields.io/badge/-shivamptsingh321@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shivamptsingh321@gmail.com)
 
