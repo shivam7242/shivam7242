@@ -10,7 +10,7 @@
 
 ### 🎓 Education
 - B.Tech in Information Technology at Indian Institute of Information Technology, Lucknow (2021-2025)
-- CGPA: 8.56/10
+- CGPA: 8.58 /10
 
 ### 💼 Internship Experience
 **Robotic Intern @ Alphadroid** (Dec 2023 - Mar 2024)
@@ -28,24 +28,15 @@
    - Tech: NextJS, MongoDB, Tailwind CSS, APIs, AWS
    - [Customer's Site](https://cuts-nine.vercel.app/) | [Owner's Site](https://cuts-salon.vercel.app/)
 
-2. **AVATAR FORGE** (Dec 2023 - Jan 2024)
-   - Customizable avatar creation system
-   - Tech: ReactJS, Blender, APIs, CSS
-   - Features: Voice navigation, AI query handling, payment integration
-   - [Project Presentation](https://www.canva.com/design/DAF9Btsvc2Y/9CvSeSEwVXyk2159tSG1ig/edit)
-
-### 🏆 Achievements
-- Specialist at Codeforces (Max: 1450) | [shivam5435](https://codeforces.com/profile/shivam5435)
-- 3 Star at Codechef (Max: 1742) | [shivam5435](https://www.codechef.com/users/shivam5435)
-- Leetcode Rating: 1828 | [shivamptsingh321](https://leetcode.com/u/shivamptsingh321/)
-- 4 Kyu at Atcoder (Max: 797) | [shivam5435](https://atcoder.jp/users/shivam5435)
-- Google Kickstart 2022: Global Rank 3101
-- Google Farewell Round 2023: Global Rank 2421
-- ICPC Preliminary Round: Global Ranks 301, 809, 1041 out of 5k participants
-- Solved 1800+ problems across platforms
+2. **In-Store 3D Guide App** (June 2024 - July 2024)
+   - Optimized in-store shopping routes with 3D navigation.
+   - Tech: ReactJS, Blender, APIs, CSS.
+   -Features: Navigable node creation, product tagging, path visualization using Dijkstra's algorithm,
+    shopping list path optimization via TSP, and sensor 
+    integration for real-time navigation.
 
 ### 💻 Technical Skills
-- **Languages:** C++, C, JavaScript, TypeScript, Java
+- **Languages:** C++, C, JavaScript, TypeScript
 - **Frameworks & Tools:** ReactJS, NextJS, Tailwind CSS, NodeJS, Git/Github, VS Code
 - **Databases:** MongoDB
 - **Cloud:** AWS
