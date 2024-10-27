@@ -34,6 +34,7 @@
    -Features: Navigable node creation, product tagging, path visualization using Dijkstra's algorithm,
     shopping list path optimization via TSP, and sensor 
     integration for real-time navigation.
+   - [Project Demo](https://www.youtube.com/watch?v=F17El8TK8Ic)
 
 ### 💻 Technical Skills
 - **Languages:** C++, C, JavaScript, TypeScript
